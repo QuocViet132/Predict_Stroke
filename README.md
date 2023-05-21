@@ -12,6 +12,7 @@
 10) bmi: body mass index
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
+
 Download Dataset at here: [Data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ## Prediction with 4-Classification Models
